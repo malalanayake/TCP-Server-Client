@@ -1,4 +1,4 @@
-package sample.tcp.server.client;
+package sample.server.client;
 
 import java.io.*;
 import java.net.*;
